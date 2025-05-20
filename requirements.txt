@@ -1,0 +1,5 @@
+Pillow
+PNG Images:
+  1. logo.png
+  2. loading_background.png
+  You can find these imagese in the file .zip (Wi-Fi Scanner.zip) inside the folder "assets"
