@@ -70,3 +70,5 @@ python3 network_scanner_gui.py
 Make sure your assets/ folder contains:
 loading_background.png
 logo.png
+
+jesus god
