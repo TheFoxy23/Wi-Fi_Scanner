@@ -71,4 +71,4 @@ Make sure your assets/ folder contains:
 loading_background.png
 logo.png
 
-jesus god
+jesus test
